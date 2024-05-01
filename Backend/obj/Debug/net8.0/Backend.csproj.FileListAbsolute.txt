@@ -1,0 +1,10 @@
+C:\Users\yadav\OneDrive\Desktop\Mini_Project\Backend\obj\Debug\net8.0\Backend.csproj.AssemblyReference.cache
+C:\Users\yadav\OneDrive\Desktop\Mini_Project\Backend\obj\Debug\net8.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yadav\OneDrive\Desktop\Mini_Project\Backend\obj\Debug\net8.0\Backend.AssemblyInfoInputs.cache
+C:\Users\yadav\OneDrive\Desktop\Mini_Project\Backend\obj\Debug\net8.0\Backend.AssemblyInfo.cs
+C:\Users\yadav\OneDrive\Desktop\Mini_Project\Backend\obj\Debug\net8.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\yadav\OneDrive\Desktop\Mini_Project\Backend\obj\Debug\net8.0\Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yadav\OneDrive\Desktop\Mini_Project\Backend\obj\Debug\net8.0\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yadav\OneDrive\Desktop\Mini_Project\Backend\obj\Debug\net8.0\Backend.RazorAssemblyInfo.cache
+C:\Users\yadav\OneDrive\Desktop\Mini_Project\Backend\obj\Debug\net8.0\Backend.RazorAssemblyInfo.cs
+C:\Users\yadav\OneDrive\Desktop\Mini_Project\Backend\obj\Debug\net8.0\Backend.sourcelink.json
