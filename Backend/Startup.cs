@@ -85,7 +85,7 @@ namespace _Backend
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            StripeConfiguration.ApiKey = "sk_test_51PBCUzSGIxUbDMSQ9FV7pNM5T2gpMeb9Svdeu4vo1FFBsQyptJipKqUAPSumEJrswtesx75eJwTZe6OAl1IsCkvf00JEoX7Pnp";
+            StripeConfiguration.ApiKey = "secret key here";
 
             if (env.IsDevelopment())
             {
